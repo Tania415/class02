@@ -1,0 +1,104 @@
+body {
+	margin: auto;
+	padding: 0;
+	
+
+}
+
+.container {
+	
+	color: black; 
+	max-width: 960px;
+	max-height: 1400px; 
+	padding: 45px;
+	margin-left: auto; 
+	margin-right: auto; 
+	text-align: center;
+}
+
+.logo {
+	max-width: 860px;
+	
+	margin-top: 0px;
+	
+	padding-bottom: 20px;
+}
+
+.google {
+   
+  padding-bottom: 0px;
+  padding-top: 0px;
+
+}
+
+img {
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+.content {
+	max-width: 520px;
+     text-align: center;
+	font-size: 2em;
+	margin-left: 160px;
+	margin-bottom: 50px;
+	margin-top: 0px;
+	line-height: 30px;
+}
+
+h1 {
+	padding: 32px;
+	margin-left: auto;
+	margin-right: auto;
+   font-size: 28px;
+ 
+}
+
+.heading-1 {
+	padding-left: 70px;
+}
+
+.organ {
+	color: orangered;
+}
+
+.info {
+	color: darkblue;
+}
+.univ {
+	color: darkgreen;
+}
+
+.use {
+	color: deeppink;
+}
+
+.txt-1 {
+	width: 275px;
+	font-size: 30px;
+	left: 45px;
+}
+
+p {
+	margin: auto;
+ padding: 30px;
+ color: gray;
+ right: 40px;
+}
+
+
+.box-2 {
+	background: orange; 
+	color: white;
+	 max-width: 960px;
+	padding: 35px; 
+	margin-right: auto; 
+	margin-left:45px;
+	text-align: center;
+	font-size: 58px;
+}
+
+
+
+
+	
